@@ -3,5 +3,6 @@ Recursive algorithm implementation for solving perfect mazes. A maze should be t
 
 References:
 Maze Solving Algorithm. https://en.wikipedia.org/wiki/Maze_solving_algorithm
+
 Javascript Maze Solver. http://www.primaryobjects.com/maze
 
